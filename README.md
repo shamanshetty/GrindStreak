@@ -35,8 +35,8 @@ Follow these steps to set up and run GrindStreak on your local machine:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/grindstreak.git
-   ```
+   git clone https://github.com/shamanshetty/GrindStreak
+   
 2. Navigate to the project directory:
    ```bash
    cd grindstreak
@@ -113,3 +113,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Built with love and dedication to help everyone stay consistent on their fitness journey.
 - Inspired by the drive to make fitness tracking simple and effective.
 
+Shaman Shetty.
