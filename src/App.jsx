@@ -17,7 +17,7 @@ function App() {
   ];
 
   useEffect(() => {
-    // Get random quote on load
+    
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     setQuote(randomQuote);
   }, []);
