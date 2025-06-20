@@ -4,7 +4,8 @@
     margin: 0 auto;
     padding: 20px;
   }
-  
+
+
   .charts-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
