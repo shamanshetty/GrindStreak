@@ -4,6 +4,7 @@ import ProgressDashboard from './components/ProgressDashboard';
 import './App.css';
 
 
+
 function App() {
   const [quote, setQuote] = useState('');
   
