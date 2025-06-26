@@ -3,7 +3,6 @@ import WorkoutLogger from './components/WorkoutLogger';
 import ProgressDashboard from './components/ProgressDashboard';
 import './App.css';
 
-
 function App() {
   const [quote, setQuote] = useState('');
   
